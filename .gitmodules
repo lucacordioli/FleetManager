@@ -1,0 +1,13 @@
+[submodule "gazebo_ros_pkgs"]
+	path = gazebo_ros_pkgs
+	url = https://github.com/ros-simulation/gazebo_ros_pkgs.git
+[submodule "image_common"]
+	path = image_common
+	url = https://github.com/ros-perception/image_common.git
+[submodule "vision_opencv"]
+	path = vision_opencv
+	url = https://github.com/ros-perception/vision_opencv.git
+[submodule "rosbridge_suite"]
+	path = rosbridge_suite
+	url = https://github.com/RobotWebTools/rosbridge_suite
+
